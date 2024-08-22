@@ -18,14 +18,14 @@ Table of Contents:
  
    7. Dependencies
 
-Overview:
+1. Overview:
 
  This project represents a modern and visually appealing car dealership website. It showcases a catalog 
  of cars with filtering options, animated sections, and responsive sliders, giving users a smooth and 
  dynamic browsing experience. The website was designed to be responsive and work on different screen 
  sizes and devices.
 
-Features:
+2. Features:
 
   • Responsive Design: The website adapts seamlessly across different screen sizes.
   
@@ -37,7 +37,7 @@ Features:
   
   • Interactive UI: The UI is built with interactive elements that make it engaging to use.
 
-Technologies Used:
+3. Technologies Used:
 
   • HTML5: For structuring the content of the website.
   
@@ -51,11 +51,11 @@ Technologies Used:
   
   • MixItUp: For filtering the car items.
 
-Getting Started:
+4. Getting Started:
 
   To get a copy of the project up and running on your local machine, follow these steps:
 
-Prerequisites:
+4.1 Prerequisites:
 
   Ensure that you have the following installed:
 
@@ -63,7 +63,7 @@ Prerequisites:
 
    • A modern web browser (e.g., Google Chrome, Firefox)
 
-Installation:
+4.2 Installation:
 
    1.Clone the repository:
       git clone https://github.com/your-username/car-website.git
@@ -74,7 +74,7 @@ Installation:
    3.Open the index.html file in your browser or run with a local server:
      Open index.html in a web browser
 
-Usage:
+5. Usage:
 
   Once the project is set up:
 
@@ -86,7 +86,7 @@ Usage:
    
    • Experience the scrolling animations and carousels created with ScrollReveal and SwiperJS.
 
-Folder Structure:
+6. Folder Structure:
 
 car-website/
 ├── assets/
@@ -108,7 +108,7 @@ car-website/
 └── README.md             # ReadMe file (this file)
 
 
-Dependencies:
+7. Dependencies:
 
   The project includes the following external libraries:
 
