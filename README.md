@@ -4,60 +4,60 @@ This is a responsive car dealership website developed using HTML, CSS, and JavaS
 
 Table of Contents:
 
-   1. Overview
+    1. Overview
 
-   2. Features
+    2. Features
  
-   3. Technologies Used
+    3. Technologies Used
  
-   4. Getting Started
+    4. Getting Started
  
-   5. Usage
+    5. Usage
  
-   6. Folder Structure
+    6. Folder Structure
  
-   7. Dependencies
+    7. Dependencies
 
 1. Overview:
 
- This project represents a modern and visually appealing car dealership website. It showcases a catalog 
- of cars with filtering options, animated sections, and responsive sliders, giving users a smooth and 
- dynamic browsing experience. The website was designed to be responsive and work on different screen 
- sizes and devices.
+       This project represents a modern and visually appealing car dealership website. It showcases a 
+       catalog of cars with filtering options, animated sections, and responsive sliders, giving users a 
+       smooth and dynamic browsing experience. The website was designed to be responsive and work on 
+       different screen sizes and devices.
 
 2. Features:
 
-    • Responsive Design: The website adapts seamlessly across different screen sizes.
+       • Responsive Design: The website adapts seamlessly across different screen sizes.
   
-    • Car Filtering: Users can filter cars based on categories like type or brand using MixItUp.
+       • Car Filtering: Users can filter cars based on categories like type or brand using MixItUp.
   
-    • Image Slider: SwiperJS is used for implementing carousels to display featured cars.
+       • Image Slider: SwiperJS is used for implementing carousels to display featured cars.
   
-    • Animations: ScrollReveal provides smooth animations when users scroll through the page.
+       • Animations: ScrollReveal provides smooth animations when users scroll through the page.
   
-    • Interactive UI: The UI is built with interactive elements that make it engaging to use.
+       • Interactive UI: The UI is built with interactive elements that make it engaging to use.
 
 3. Technologies Used:
 
-    • HTML5: For structuring the content of the website.
+       • HTML5: For structuring the content of the website.
   
-    • CSS3: For styling, animations, and responsiveness of the website.
+       • CSS3: For styling, animations, and responsiveness of the website.
   
-    • JavaScript (ES6): For adding interactive functionalities.
+       • JavaScript (ES6): For adding interactive functionalities.
   
-    • SwiperJS: For the slider/carousel.
+       • SwiperJS: For the slider/carousel.
   
-    • ScrollReveal: For implementing smooth scrolling animations.
+       • ScrollReveal: For implementing smooth scrolling animations.
   
-    • MixItUp: For filtering the car items.
+       • MixItUp: For filtering the car items.
 
 4. Getting Started:
 
-    To get a copy of the project up and running on your local machine, follow these steps:
+       To get a copy of the project up and running on your local machine, follow these steps:
 
 4.1 Prerequisites:
 
-   Ensure that you have the following installed:
+    Ensure that you have the following installed:
     
      • A code editor (e.g., Visual Studio Code)
      • A modern web browser (e.g., Google Chrome, Firefox)
@@ -88,28 +88,34 @@ Table of Contents:
 6. Folder Structure:
 
 car-website/
-├── assets/
-│
-├── css/
-│   └── styles.css        # Main CSS file for styling
-|   └── swiper-bundle.min.css # SwiperJS CSS library
-│
-├── js/
-│   ├── swiper-bundle.min.js     # SwiperJS library
-│   ├── scrollreveal.min.js # ScrollReveal library
-│   ├── mixitup.min.js    # MixItUp library
-│   └── main.js           # Main JavaScript file
-│
-├── img/
-│   └── ...               # Image assets for cars, logos, etc.
-│
-├── index.html            # Main HTML file
-└── README.md             # ReadMe file (this file)
+
+    ├── assets/
+    │
+
+    ├── css/
+    │   └── styles.css        # Main CSS file for styling
+    |   └── swiper-bundle.min.css # SwiperJS CSS library
+    │
+
+    ├── js/
+    │   ├── swiper-bundle.min.js     # SwiperJS library
+    │   ├── scrollreveal.min.js # ScrollReveal library
+    │   ├── mixitup.min.js    # MixItUp library
+    │   └── main.js           # Main JavaScript file
+    │
+
+    ├── img/
+    │   └── ...               # Image assets for cars, logos, etc.
+    │
+
+    ├── index.html            # Main HTML file
+
+    └── README.md             # ReadMe file (this file)
 
 
 7. Dependencies:
 
-  The project includes the following external libraries:
+The project includes the following external libraries:
 
      1. SwiperJS: Used for implementing responsive carousels.
    
