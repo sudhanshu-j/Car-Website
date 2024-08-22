@@ -27,15 +27,15 @@ Table of Contents:
 
 2. Features:
 
-  • Responsive Design: The website adapts seamlessly across different screen sizes.
+    • Responsive Design: The website adapts seamlessly across different screen sizes.
   
-  • Car Filtering: Users can filter cars based on categories like type or brand using MixItUp.
+    • Car Filtering: Users can filter cars based on categories like type or brand using MixItUp.
   
-  • Image Slider: SwiperJS is used for implementing carousels to display featured cars.
+    • Image Slider: SwiperJS is used for implementing carousels to display featured cars.
   
-  • Animations: ScrollReveal provides smooth animations when users scroll through the page.
+    • Animations: ScrollReveal provides smooth animations when users scroll through the page.
   
-  • Interactive UI: The UI is built with interactive elements that make it engaging to use.
+    • Interactive UI: The UI is built with interactive elements that make it engaging to use.
 
 3. Technologies Used:
 
