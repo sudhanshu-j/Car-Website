@@ -93,24 +93,24 @@ car-website/
     │
 
     ├── css/
-    │   └── styles.css        # Main CSS file for styling
-    |   └── swiper-bundle.min.css # SwiperJS CSS library
+    │   └── styles.css               # Main CSS file for styling
+    |   └── swiper-bundle.min.css    # SwiperJS CSS library
     │
 
     ├── js/
     │   ├── swiper-bundle.min.js     # SwiperJS library
-    │   ├── scrollreveal.min.js # ScrollReveal library
-    │   ├── mixitup.min.js    # MixItUp library
-    │   └── main.js           # Main JavaScript file
+    │   ├── scrollreveal.min.js      # ScrollReveal library
+    │   ├── mixitup.min.js           # MixItUp library
+    │   └── main.js                  # Main JavaScript file
     │
 
     ├── img/
-    │   └── ...               # Image assets for cars, logos, etc.
+    │   └── ...                      # Image assets for cars, logos, etc.
     │
 
-    ├── index.html            # Main HTML file
+    ├── index.html                   # Main HTML file
 
-    └── README.md             # ReadMe file (this file)
+    └── README.md                    # ReadMe file (this file)
 
 
 7. Dependencies:
