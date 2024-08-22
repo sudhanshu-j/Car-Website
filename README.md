@@ -4,19 +4,19 @@ This is a responsive car dealership website developed using HTML, CSS, and JavaS
 
 Table of Contents:
 
- 1.Overview
+   1.Overview
 
- 2.Features
+   2.Features
  
- 3.Technologies Used
+   3.Technologies Used
  
- 4.Getting Started
+   4.Getting Started
  
- 5.Usage
+   5.Usage
  
- 6.Folder Structure
+   6.Folder Structure
  
- 7.Dependencies
+   7.Dependencies
 
 Overview:
 
