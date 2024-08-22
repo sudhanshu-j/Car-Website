@@ -39,52 +39,51 @@ Table of Contents:
 
 3. Technologies Used:
 
-  • HTML5: For structuring the content of the website.
+    • HTML5: For structuring the content of the website.
   
-  • CSS3: For styling, animations, and responsiveness of the website.
+    • CSS3: For styling, animations, and responsiveness of the website.
   
-  • JavaScript (ES6): For adding interactive functionalities.
+    • JavaScript (ES6): For adding interactive functionalities.
   
-  • SwiperJS: For the slider/carousel.
+    • SwiperJS: For the slider/carousel.
   
-  • ScrollReveal: For implementing smooth scrolling animations.
+    • ScrollReveal: For implementing smooth scrolling animations.
   
-  • MixItUp: For filtering the car items.
+    • MixItUp: For filtering the car items.
 
 4. Getting Started:
 
-  To get a copy of the project up and running on your local machine, follow these steps:
+    To get a copy of the project up and running on your local machine, follow these steps:
 
 4.1 Prerequisites:
 
-  Ensure that you have the following installed:
-
-   • A code editor (e.g., Visual Studio Code)
-
-   • A modern web browser (e.g., Google Chrome, Firefox)
+   Ensure that you have the following installed:
+    
+     • A code editor (e.g., Visual Studio Code)
+     • A modern web browser (e.g., Google Chrome, Firefox)
 
 4.2 Installation:
 
-   1.Clone the repository:
+     1.Clone the repository:
       git clone https://github.com/your-username/car-website.git
 
-   2.Navigate to the project directory:
+     2.Navigate to the project directory:
      cd car-website
 
-   3.Open the index.html file in your browser or run with a local server:
+     3.Open the index.html file in your browser or run with a local server:
      Open index.html in a web browser
 
 5. Usage:
 
   Once the project is set up:
 
-   • Open the website in your browser.
+     • Open the website in your browser.
    
-   • Navigate through the sections such as Featured Cars, Popular Cars, and Features.
+     • Navigate through the sections such as Featured Cars, Popular Cars, and Features.
    
-   • Use the filtering options to sort cars by categories using MixItUp.
+     • Use the filtering options to sort cars by categories using MixItUp.
    
-   • Experience the scrolling animations and carousels created with ScrollReveal and SwiperJS.
+     • Experience the scrolling animations and carousels created with ScrollReveal and SwiperJS.
 
 6. Folder Structure:
 
@@ -112,12 +111,12 @@ car-website/
 
   The project includes the following external libraries:
 
-   1.SwiperJS: Used for implementing responsive carousels.
+     1. SwiperJS: Used for implementing responsive carousels.
    
-   2.ScrollReveal: Used for adding scroll-triggered animations.
+     2. ScrollReveal: Used for adding scroll-triggered animations.
    
-   3.MixItUp: Used for filtering and sorting car categories.
+     3. MixItUp: Used for filtering and sorting car categories.
 
-   • Make sure to link these libraries in the index.html file using CDN links, or include them locally in 
-   the js/ directory.
+     • Make sure to link these libraries in the index.html file using CDN links, or include them locally in 
+       the js/ directory.
    
